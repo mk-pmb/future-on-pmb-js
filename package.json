@@ -1,0 +1,32 @@
+{ "name": "future-on-pmb",
+  "version": "0.1.0",
+  "description": "Subscribe to events right now, independent of whether the event emitter already exists.",
+  "keywords": [ "events" ],
+
+  "author": "M.K. (https://github.com/mk-pmb)",
+  "homepage": "https://github.com/mk-pmb/future-on-pmb-js/#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mk-pmb/future-on-pmb-js.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mk-pmb/future-on-pmb-js/issues"
+  },
+  "contributors": [],
+
+  "private": false, "license": "ISC",
+
+  "main": "fon.js",
+  "scripts": { "test": "nodejs test.usage.js" },
+
+  "dependencies": {},
+  "devDependencies": {
+    "equal-pmb": "^0.1.13",
+    "event-test-clock-pmb": "^1.0.0",
+    "subjlog1707-pmb": "^1.0.2",
+    "usnam-pmb": "^0.2.3"
+  },
+
+
+  "npm vs. BOM = Unexpected token": "-*- coding: UTF-8 -*-"
+}
